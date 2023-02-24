@@ -46,4 +46,5 @@ class SecondActivity : AppCompatActivity() {
         super.onDestroy()
         Log.i("SecondActivity", "onDestroy")
     }
+    
 }
